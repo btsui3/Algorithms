@@ -1,4 +1,5 @@
 use crate::bubble_sort::bubble_sort;
+use crate::merge_sort::merge_sort;
 
 #[test]
 fn it_works() {
